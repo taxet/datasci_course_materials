@@ -1,0 +1,2 @@
+SELECT count(*) FROM FREQUENCY
+WHERE TERM LIKE '%parliament%';
